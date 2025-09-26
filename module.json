@@ -1,0 +1,52 @@
+{
+  "id": "light-of-the-dawn-one-shot",
+  "title": "DC20 Light of the Dawn (One-Shot)",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "OnyxStudios",
+      "email": "Onyx1602yt@gmail.com",
+      "url": "https://patreon.com/OnyxStudios?",
+      "discord": "Onyx1602#8924",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Onyx1602/DC20-Monster-Generator",
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "light-of-the-dawn-oneshot",
+      "label": "Light of  the Dawn (OneShot)",
+      "path": "packs/light-of-the-dawn-oneshot",
+      "type": "Adventure",
+      "system": "dc20rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "description": "<p>All Token Artwork was by Caeora</p><p>Patreon: https://www.patreon.com/c/caeora/posts</p><p>Commercial Liscence: https://www.caeora.com/content-use</p><hr /><p>All Map Artwork was by Czepeku</p><p>Patreon: https://www.patreon.com/c/czepeku/posts</p><p>Commercial Liscense: https://www.czepeku.com/blog/commercial-use-licence</p><hr /><h1>One-Shot Overview:</h1><p data-start=\"150\" data-end=\"704\">The people of Light of the Dawn gather in celebration, honoring the celestial hero Achron who once banished the shadows from the caverns below. Lanterns glow, music fills the air, and both frogfolk and humans share in the joy of peace hard-won. Yet beneath the laughter lurk hidden secrets and quiet dealings in the Gloamway. When shadow assassins strike and strange creatures stir, the festival’s brilliance begins to dim. What begins as a day of merriment quickly turns into a desperate struggle to preserve the light before it flickers away forever.</p>",
+  "relationships": {
+    "systems": [
+      {
+        "id": "dc20rpg",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "requires": [
+      {
+        "id": "monks-active-tiles",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}
