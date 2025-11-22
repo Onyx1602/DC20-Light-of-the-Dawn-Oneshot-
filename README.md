@@ -1,3 +1,5 @@
+![GitHub all releases](https://img.shields.io/github/downloads/Onyx1602/DC20-Light-of-the-Dawn-Oneshot-/total.svg) [![discord members](https://discord-live-members-count-badge.vercel.app/api/discord-members?guildId=1346272545195950151)](https://discord.gg/onyxstudios)
+
 All Token Artwork was by Caeora
 
 Patreon: https://www.patreon.com/c/caeora/posts
